@@ -1,4 +1,4 @@
-# TRE Diffusion Image Detection
+# 확산 모델 기반 생성 이미지 탐지
 
 Detecting AI-generated images from the **Temporal Reconstruction Error (TRE)**
 of a diffusion model, classified by temporal / spatial attention.
